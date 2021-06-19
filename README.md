@@ -7,10 +7,7 @@ prepare_data.py
 
 
 baseline.py 
-是  https://developers.weixin.qq.com/community/minihome/article/doc/0006467d05427892b94c341aa56813   有一个周的一个周分享
+是  https://developers.weixin.qq.com/community/minihome/article/doc/0006467d05427892b94c341aa56813   上周的一个周分享
 
 
-pdf 是数据集描述
-
-
-先注册用户，参加比赛，建立单人队伍，然后就可以下载数据，然后我拉你进队。
+pdf 是数据集描述。
